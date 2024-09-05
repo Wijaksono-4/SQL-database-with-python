@@ -1,0 +1,12 @@
+SQL (Structured Query Language) adalah bahasa standar untuk mengelola dan memanipulasi data dalam sistem manajemen basis data relasional (RDBMS). 
+SQL sangat di anjurkan untuk di pelajari karena perminataan pengolahan data yang terus meningkat dan sebagian besar pengolahan data berkutik di database.
+Dalam pembelajaran ini di sertakan python sebagai bahasa pemprograman yang menjembatani hubungan database dengan software lain yang dibutuhkan seperti
+visualisasi tools(power BI) dan juga sebagai automation pemprosesan data.
+contoh database yang menggunakan SQL:
+
+    Database	  ||      Keunggulan	                                                  ||     Kelemahan	                                    ||     penggunaan Ideal
+MySQL	          ||  Mudah digunakan, cepat untuk operasi baca, komunitas besar	      || Fitur lanjutan terbatas	                          || Aplikasi web, e-commerce, CMS
+SQLite	        ||  Ringan, tanpa server, portabel	                                  || Tidak cocok untuk skala besar, fitur terbatas      || Aplikasi mobile, embedded system, prototipe
+SQL Server      ||	Integrasi dengan produk Microsoft, keamanan tinggi, fitur BI      || Lisensi mahal, kompleks	                          || Aplikasi enterprise, sistem skala besar
+PostgreSQL	    ||  Dukungan fitur lanjutan, tipe data kompleks,kepatuhan standar SQL || Kinerja tulis lebih lambat, administrasi kompleks  || Fintech, ilmiah, aplikasi yang membutuhkan query kompleks
+Oracle database ||	skalabilitas tinggi, keamanan tinggi,  kepatuhan standar SQL	    || Lisensi mahal, kompleks, sumberdaya tinggi	        || Aplikasi enterprise, sistem skala besar
