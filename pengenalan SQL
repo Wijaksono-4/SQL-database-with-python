@@ -4,9 +4,9 @@ Dalam pembelajaran ini di sertakan python sebagai bahasa pemprograman yang menje
 visualisasi tools(power BI) dan juga sebagai automation pemprosesan data.
 contoh database yang menggunakan SQL:
 
-    Database    ||      Keunggulan                                                    ||     Kelemahan	                                    ||     penggunaan Ideal
-MySQL           ||  Mudah digunakan, cepat untuk operasi baca, komunitas besar        || Fitur lanjutan terbatas	                          || Aplikasi web, e-commerce, CMS
-SQLite	        ||  Ringan, tanpa server, portabel                                    || Tidak cocok untuk skala besar, fitur terbatas      || Aplikasi mobile, embedded system, prototipe
-SQL Server      ||	Integrasi dengan produk Microsoft, keamanan tinggi, fitur BI      || Lisensi mahal, kompleks	                          || Aplikasi enterprise, sistem skala besar
-PostgreSQL      ||  Dukungan fitur lanjutan, tipe data kompleks,kepatuhan standar SQL || Kinerja tulis lebih lambat, administrasi kompleks  || Fintech, ilmiah, aplikasi yang membutuhkan query kompleks
-Oracle database ||	skalabilitas tinggi, keamanan tinggi,  kepatuhan standar SQL      || Lisensi mahal, kompleks, sumberdaya tinggi	        || Aplikasi enterprise, sistem skala besar
+    Database    ||     Keunggulan                                                    ||    Kelemahan                                      ||     penggunaan Ideal
+MySQL           || Mudah digunakan, cepat untuk operasi baca, komunitas besar        || Fitur lanjutan terbatas                           || Aplikasi web, e-commerce, CMS
+SQLite	        || Ringan, tanpa server, portabel                                    || Tidak cocok untuk skala besar, fitur terbatas     || Aplikasi mobile, embedded system, prototipe
+SQL Server      || Integrasi dengan produk Microsoft, keamanan tinggi, fitur BI      || Lisensi mahal, kompleks                           || Aplikasi enterprise, sistem skala besar
+PostgreSQL      || Dukungan fitur lanjutan, tipe data kompleks,kepatuhan standar SQL || Kinerja tulis lebih lambat, administrasi kompleks || Fintech, ilmiah, aplikasi yang membutuhkan query kompleks
+Oracle database || skalabilitas tinggi, keamanan tinggi,  kepatuhan standar SQL      || Lisensi mahal, kompleks, sumberdaya tinggi        || Aplikasi enterprise, sistem skala besar
